@@ -1,0 +1,4 @@
+2024-10-11 23:12:04,205 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-10-11 23:12:04,211 - INFO - channels.csv not found. Performing search and update.
+2024-10-11 23:12:19,826 - ERROR - Error in fetchNewVideos inner loop: 'upload'
+2024-10-11 23:12:22,102 - INFO - Remaining quota for this day : 8170

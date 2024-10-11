@@ -1,0 +1,10 @@
+# Dev environment
+pip
+autopep8
+google-api-python-client 
+isodate
+langdetect
+pandas
+# App
+google-generativeai # Client library for the Gemini API
+Pillow # PIL image-loading library
